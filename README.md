@@ -9,4 +9,4 @@ Some cross-platform libraries and utils.
 
 ### module1
 
-module主要提供std替代实现
+module主要提供stl替代实现
